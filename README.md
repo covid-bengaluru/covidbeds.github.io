@@ -1,0 +1,1 @@
+# covidbeds.github.io
